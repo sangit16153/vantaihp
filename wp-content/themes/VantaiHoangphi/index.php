@@ -11,7 +11,7 @@
                 <div class="slider-pro">
                     <div class="sp-slides">
                         <div class="sp-slide">
-                            <img class="sp-image" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-introduce-2.jpg" data-src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-introduce-2.jpg" data-retrina="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-introduce-2.jpg" alt="">
+                            <img class="sp-image" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-introduce-2.jpg" data-src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-introduce-2.jpg" data-retrina="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-introduce-2.jpg" alt="">
                             <p class="kopa-txt-style-04 sp-layer" data-horizontal="195" data-vertical="160" data-show-transition="left">
                                 Làm việc 7 ngày trong tuần
                             </p>
@@ -22,9 +22,9 @@
                             </p>
                             <p class="kopa-txt-style-05 sp-layer" data-horizontal="230" data-vertical="310" data-show-transition="left" data-show-delay="400">Uy tín</p>
                             <p class="kopa-txt-style-06 sp-layer" data-horizontal="140" data-vertical="350" data-show-transition="left" data-show-delay="600">Chúng tôi có trên 5 năm kinh nghiệm trong ngành vận tải</p>
-                            <p class="sp-layer kopa-sp-layer-btn-01" data-horizontal="100" data-vertical="430" data-show-transition="left" data-show-delay="800"><a href="https://www.vantaihoangphi.com/about/" class="btn-01">Tìm hiểu thêm</a>
+                            <p class="sp-layer kopa-sp-layer-btn-01" data-horizontal="100" data-vertical="430" data-show-transition="left" data-show-delay="800"><a href="http://www.vantaihoangphi.com/about/" class="btn-01">Tìm hiểu thêm</a>
                             </p>
-                            <p class="sp-layer kopa-sp-layer-btn-02" data-horizontal="330" data-vertical="430" data-show-transition="left" data-show-delay="800"><a href="https://www.vantaihoangphi.com/contact/" class="btn-01">Liên hệ với chúng tôi</a>
+                            <p class="sp-layer kopa-sp-layer-btn-02" data-horizontal="330" data-vertical="430" data-show-transition="left" data-show-delay="800"><a href="http://www.vantaihoangphi.com/contact/" class="btn-01">Liên hệ với chúng tôi</a>
                             </p>
                             <p class="sp-layer kopa-sp-layer-img" data-horizontal="630" data-vertical="110" data-show-transition="left" data-show-delay="800">
                                 <img src="" alt="">
@@ -32,7 +32,7 @@
                         </div>
 
                         <div class="sp-slide">
-                            <img class="sp-image" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-introduce-3.jpg" data-src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-introduce-3.jpg" alt="">
+                            <img class="sp-image" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-introduce-3.jpg" data-src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-introduce-3.jpg" alt="">
                             <p class="sp-layer kopa-title-7" data-horizontal="700" data-vertical="180" data-show-transition="left">
                                 ĐẾN BẤT CỨ ĐÂU BẠN MUỐN
                                 <br> 100% CHẮC CHẮN VÀ AN TOÀN
@@ -43,7 +43,7 @@
                                 <br> vận chuyển chúng an toàn, đúng hẹn
                             </p>
 
-                            <p class="sp-layer kopa-sp-layer-btn-04" data-horizontal="735" data-vertical="380" data-show-transition="left" data-show-delay="800"><a href="https://www.vantaihoangphi.com/our-pricing/" class="btn-04">Xem giá</a>
+                            <p class="sp-layer kopa-sp-layer-btn-04" data-horizontal="735" data-vertical="380" data-show-transition="left" data-show-delay="800"><a href="http://www.vantaihoangphi.com/our-pricing/" class="btn-04">Xem giá</a>
                             </p>
 
                         </div>
@@ -71,7 +71,7 @@
                                 <li>
                                     <article class="entry-item">
                                         <figure class="entry-thumb">
-                                            <img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main1.jpg" alt="img-item-slider-main1">
+                                            <img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main1.jpg" alt="img-item-slider-main1">
                                             <div class="hidden-item">
                                                 <a href="#" class="fa fa-dropbox"></a>
                                             </div>
@@ -86,7 +86,7 @@
                                 <li>
                                     <article class="entry-item">
                                         <figure class="entry-thumb">
-                                            <img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main2.jpg" alt="img-item-slider-main2">
+                                            <img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main2.jpg" alt="img-item-slider-main2">
                                             <div class="hidden-item">
                                                 <a href="#" class="fa fa-dropbox"></a>
                                             </div>
@@ -101,24 +101,7 @@
                                 <li>
                                     <article class="entry-item">
                                         <figure class="entry-thumb">
-                                            <img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main3.jpg" alt="img-item-slider-main3">
-                                            <div class="hidden-item">
-                                                <a href="#" class="fa fa-dropbox"></a>
-                                            </div>
-                                        </figure>
-                                        <div class="entry-content">
-
-                                            <h4 class="entry-title"><a href="#">Vận tải</a></h4>
-
-                                            <p>Bất cứ đâu bạn muốn</p>
-                                        </div>
-                                    </article>
-                                </li>
-                                <!-- ** -->
-                                <li>
-                                    <article class="entry-item">
-                                        <figure class="entry-thumb">
-                                            <img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main4.jpg" alt="img-item-slider-main4">
+                                            <img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main3.jpg" alt="img-item-slider-main3">
                                             <div class="hidden-item">
                                                 <a href="#" class="fa fa-dropbox"></a>
                                             </div>
@@ -135,7 +118,24 @@
                                 <li>
                                     <article class="entry-item">
                                         <figure class="entry-thumb">
-                                            <img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main5.jpg" alt="img-item-slider-main5">
+                                            <img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main4.jpg" alt="img-item-slider-main4">
+                                            <div class="hidden-item">
+                                                <a href="#" class="fa fa-dropbox"></a>
+                                            </div>
+                                        </figure>
+                                        <div class="entry-content">
+
+                                            <h4 class="entry-title"><a href="#">Vận tải</a></h4>
+
+                                            <p>Bất cứ đâu bạn muốn</p>
+                                        </div>
+                                    </article>
+                                </li>
+                                <!-- ** -->
+                                <li>
+                                    <article class="entry-item">
+                                        <figure class="entry-thumb">
+                                            <img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main5.jpg" alt="img-item-slider-main5">
                                             <div class="hidden-item">
                                                 <a href="#"><i class="fa fa-dropbox"></i></a>
                                             </div>
@@ -152,7 +152,7 @@
                                 <li>
                                     <article class="entry-item">
                                         <figure class="entry-thumb">
-                                            <img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main6.jpg" width="293" height="250" alt="img-item-slider-main6">
+                                            <img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main6.jpg" width="293" height="250" alt="img-item-slider-main6">
                                             <div class="hidden-item">
                                                 <a href="#" class="fa fa-dropbox"></a>
                                             </div>
@@ -169,7 +169,7 @@
                                 <li>
                                     <article class="entry-item">
                                         <figure class="entry-thumb">
-                                            <img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main6.jpg" alt="img-item-slider-main7">
+                                            <img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider-main6.jpg" alt="img-item-slider-main7">
                                             <div class="hidden-item">
                                                 <a href="#" class="fa fa-dropbox"></a>
                                             </div>
@@ -229,7 +229,7 @@
                         </header>
                         <div class="widget-content">
 
-                            <a href="https://www.vantaihoangphi.com/our-pricing/" class="kopa-btn btn-06">Xem giá</a>
+                            <a href="http://www.vantaihoangphi.com/our-pricing/" class="kopa-btn btn-06">Xem giá</a>
                             <a href="#" class="kopa-btn btn-06 kopa-with-icon"><i class="fa fa-phone"></i> gọi chúng tôi: 800 589.4231</a>
 
                         </div>
@@ -255,7 +255,7 @@
                                         <li>
                                             <article class="entry-item">
                                                 <figure class="entry-thumb">
-                                                    <img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb1.png" alt="">
+                                                    <img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb1.png" alt="">
                                                     <figcaption><a href="#">furniture</a>
                                                     </figcaption>
                                                 </figure>
@@ -264,7 +264,7 @@
                                         <li>
                                             <article class="entry-item">
                                                 <figure class="entry-thumb">
-                                                    <img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb2.png" alt="">
+                                                    <img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb2.png" alt="">
                                                     <figcaption><a href="#">box/care</a>
                                                     </figcaption>
                                                 </figure>
@@ -273,7 +273,7 @@
                                         <li>
                                             <article class="entry-item">
                                                 <figure class="entry-thumb">
-                                                    <img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb3.png" alt="">
+                                                    <img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb3.png" alt="">
                                                     <figcaption><a href="#">pianos</a>
                                                     </figcaption>
                                                 </figure>
@@ -282,7 +282,7 @@
                                         <li>
                                             <article class="entry-item">
                                                 <figure class="entry-thumb">
-                                                    <img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb4.png" alt="">
+                                                    <img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb4.png" alt="">
                                                     <figcaption><a href="#">mattreses</a>
                                                     </figcaption>
                                                 </figure>
@@ -291,7 +291,7 @@
                                         <li>
                                             <article class="entry-item">
                                                 <figure class="entry-thumb">
-                                                    <img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb5.png" alt="">
+                                                    <img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb5.png" alt="">
                                                     <figcaption><a href="#">tables</a>
                                                     </figcaption>
                                                 </figure>
@@ -300,7 +300,7 @@
                                         <li>
                                             <article class="entry-item">
                                                 <figure class="entry-thumb">
-                                                    <img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb6.png" alt="">
+                                                    <img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/item-slider-thumb6.png" alt="">
                                                     <figcaption><a href="#">pallets</a>
                                                     </figcaption>
                                                 </figure>
@@ -375,7 +375,7 @@
                             <li class="col-xs-6 col-sm-6 col-md-6">
                                 <article class="entry-item">
                                     <figure class="entry-thumb">
-                                        <a href="#"><img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-feature1.jpg" alt="img-feature1">
+                                        <a href="#"><img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-feature1.jpg" alt="img-feature1">
                                         </a>
                                         <figcaption>
                                             <a href="#">Vận chuyển</a>
@@ -388,7 +388,7 @@
                             <li class="col-xs-6 col-sm-6 col-md-6">
                                 <article class="entry-item">
                                     <figure class="entry-thumb">
-                                        <img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-feature2.jpg" alt="img-feature2">
+                                        <img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-feature2.jpg" alt="img-feature2">
                                         <figcaption>
                                             <a href="#">Vận chuyển</a>
                                             <span>Bất cứ đâu bạn muốn</span>
@@ -400,7 +400,7 @@
                             <li class="col-xs-6 col-sm-6 col-md-6">
                                 <article class="entry-item">
                                     <figure class="entry-thumb">
-                                        <img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-feature3.jpg" alt="img-feature3">
+                                        <img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-feature3.jpg" alt="img-feature3">
                                         <figcaption>
                                             <a href="#">Vận chuyển</a>
                                             <span>Bất cứ đâu bạn muốn</span>
@@ -412,7 +412,7 @@
                             <li class="col-xs-6 col-sm-6 col-md-6">
                                 <article class="entry-item">
                                     <figure class="entry-thumb">
-                                        <img class="" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-feature4.jpg" alt="img-feature4">
+                                        <img class="" src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-feature4.jpg" alt="img-feature4">
                                         <figcaption>
                                             <a href="#">Vận chuyển</a>
                                             <span>Bất cứ đâu bạn muốn</span>
@@ -699,7 +699,7 @@
                                     <article class="entry-item">
                                         <div class="entry-content">
                                             <figure class="entry-thumb">
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner1.png" alt="">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner1.png" alt="">
                                                 </a>
                                             </figure>
                                         </div>
@@ -710,7 +710,7 @@
                                     <article class="entry-item">
                                         <div class="entry-content">
                                             <figure>
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner2.png" alt="">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner2.png" alt="">
                                                 </a>
                                             </figure>
                                         </div>
@@ -721,7 +721,7 @@
                                     <article class="entry-item">
                                         <div class="entry-content">
                                             <figure>
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner3.png" alt="">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner3.png" alt="">
                                                 </a>
                                             </figure>
                                         </div>
@@ -732,7 +732,7 @@
                                     <article class="entry-item">
                                         <div class="entry-content">
                                             <figure>
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner4.png" alt="">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner4.png" alt="">
                                                 </a>
                                             </figure>
                                         </div>
@@ -743,7 +743,7 @@
                                     <article class="entry-item">
                                         <div class="entry-content">
                                             <figure>
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner5.png" alt="">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner5.png" alt="">
                                                 </a>
                                             </figure>
                                         </div>
@@ -754,7 +754,7 @@
                                     <article class="entry-item">
                                         <div class="entry-content">
                                             <figure>
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner1.png" alt="">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner1.png" alt="">
                                                 </a>
                                             </figure>
                                         </div>
@@ -765,7 +765,7 @@
                                     <article class="entry-item">
                                         <div class="entry-content">
                                             <figure>
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner2.png" alt="">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner2.png" alt="">
                                                 </a>
                                             </figure>
                                         </div>
@@ -776,7 +776,7 @@
                                     <article class="entry-item">
                                         <div class="entry-content">
                                             <figure>
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner3.png" alt="">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner3.png" alt="">
                                                 </a>
                                             </figure>
                                         </div>
@@ -787,7 +787,7 @@
                                     <article class="entry-item">
                                         <div class="entry-content">
                                             <figure>
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner4.png" alt="">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner4.png" alt="">
                                                 </a>
                                             </figure>
                                         </div>
@@ -817,7 +817,7 @@
                                     <li class="item">
                                         <article class="entry-item">
                                             <figure class="entry-thumb">
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/ava-ceo1.png" alt="ava-ceo1">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/ava-ceo1.png" alt="ava-ceo1">
                                                 </a>
                                             </figure>
                                             <div class="entry-content">
@@ -830,7 +830,7 @@
                                         </article>
                                         <article class="entry-item">
                                             <figure class="entry-thumb">
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/ava-ceo2.png" alt="ava-ceo1">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/ava-ceo2.png" alt="ava-ceo1">
                                                 </a>
                                             </figure>
                                             <div class="entry-content">
@@ -846,7 +846,7 @@
                                     <li class="item active">
                                         <article class="entry-item">
                                             <figure class="entry-thumb">
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/ava-ceo1.png" alt="ava-ceo1">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/ava-ceo1.png" alt="ava-ceo1">
                                                 </a>
                                             </figure>
                                             <div class="entry-content">
@@ -859,7 +859,7 @@
                                         </article>
                                         <article class="entry-item">
                                             <figure class="entry-thumb">
-                                                <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/ava-ceo2.png" alt="ava-ceo1">
+                                                <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/ava-ceo2.png" alt="ava-ceo1">
                                                 </a>
                                             </figure>
                                             <div class="entry-content">

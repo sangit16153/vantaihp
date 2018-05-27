@@ -112,7 +112,7 @@
                                 <div class="widget-content">
                                     <article class="entry-item">
                                         <figure class="entry-thumb">
-                                            <img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-contact-1.jpg" alt="img-contact1">
+                                            <img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-contact-1.jpg" alt="img-contact1">
                                         </figure>
                                         <div class="entry-content">
                                             <p>Hãy cho chúng tôi biết chúng tôi có thể giúp gì cho bạn.
@@ -135,7 +135,7 @@
                                 <div class="widget-content">
                                     <article class="entry-item">
                                         <figure class="entry-thumb">
-                                            <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-present5-1.png" alt="">
+                                            <a href="#"><img src="http://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-present5-1.png" alt="">
                                             </a>
                                         </figure>
                                         <div class="entry-content">
