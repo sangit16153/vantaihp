@@ -67,7 +67,7 @@
                     <div class="alignleft">
 
                         <figure class="kopa-logo">
-                            <a href="#"><img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo.png" alt="logo">
+                            <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo.png" alt="logo">
                             </a>
                         </figure>
 

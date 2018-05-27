@@ -47,66 +47,66 @@
                                     <!-- ===================================== -->
                                     <div class="owl-carousel main-img-wrap">
                                         <div class="item">
-                                            <a href="#"><img class="sp-image" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
+                                            <a href="#"><img class="sp-image" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="item">
-                                            <a href="#"><img class="sp-image" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
+                                            <a href="#"><img class="sp-image" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="item">
-                                            <a href="#"><img class="sp-image" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
+                                            <a href="#"><img class="sp-image" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="item">
-                                            <a href="#"><img class="sp-image" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
+                                            <a href="#"><img class="sp-image" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="item">
-                                            <a href="#"><img class="sp-image" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
+                                            <a href="#"><img class="sp-image" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="item">
-                                            <a href="#"><img class="sp-image" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
+                                            <a href="#"><img class="sp-image" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="item">
-                                            <a href="#"><img class="sp-image" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
+                                            <a href="#"><img class="sp-image" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="item">
-                                            <a href="#"><img class="sp-image" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
+                                            <a href="#"><img class="sp-image" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-slider11-1-1024x512.jpg" alt="">
                                             </a>
                                         </div>
                                     </div>
                                     <div class="row-slider">
                                         <div class="owl-carousel thumb-img-wrap">
                                             <div class="item">
-                                                <img class="sp-thumbnail" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-thumb-slider11-1.jpg" alt="">
+                                                <img class="sp-thumbnail" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-thumb-slider11-1.jpg" alt="">
                                             </div>
                                             <div class="item">
-                                                <img class="sp-thumbnail" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-thumb-slider11-2.jpg" alt="">
+                                                <img class="sp-thumbnail" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-thumb-slider11-2.jpg" alt="">
                                             </div>
                                             <div class="item">
-                                                <img class="sp-thumbnail" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-thumb-slider11-3.jpg" alt="">
+                                                <img class="sp-thumbnail" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-thumb-slider11-3.jpg" alt="">
                                             </div>
                                             <div class="item">
-                                                <img class="sp-thumbnail" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-thumb-slider11-4.jpg" alt="">
+                                                <img class="sp-thumbnail" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-thumb-slider11-4.jpg" alt="">
                                             </div>
                                             <div class="item">
-                                                <img class="sp-thumbnail" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-thumb-slider11-1.jpg" alt="">
+                                                <img class="sp-thumbnail" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-thumb-slider11-1.jpg" alt="">
                                             </div>
                                             <div class="item">
-                                                <img class="sp-thumbnail" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-thumb-slider11-2.jpg" alt="">
+                                                <img class="sp-thumbnail" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-thumb-slider11-2.jpg" alt="">
                                             </div>
                                             <div class="item">
-                                                <img class="sp-thumbnail" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-thumb-slider11-3.jpg" alt="">
+                                                <img class="sp-thumbnail" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-thumb-slider11-3.jpg" alt="">
                                             </div>
                                             <div class="item">
-                                                <img class="sp-thumbnail" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-thumb-slider11-4.jpg" alt="">
+                                                <img class="sp-thumbnail" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-thumb-slider11-4.jpg" alt="">
                                             </div>
                                             <div class="item">
-                                                <img class="sp-thumbnail" src="https://www.tyquay.com/wp-content/uploads/2018/05/img-thumb-slider11-1.jpg" alt="">
+                                                <img class="sp-thumbnail" src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/img-thumb-slider11-1.jpg" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -171,7 +171,7 @@
                                             <article class="entry-item">
                                                 <div class="entry-content">
                                                     <figure class="entry-thumb">
-                                                        <a href="#"><img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo-partner1.png" alt="">
+                                                        <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner1.png" alt="">
                                                         </a>
                                                     </figure>
                                                 </div>
@@ -182,7 +182,7 @@
                                             <article class="entry-item">
                                                 <div class="entry-content">
                                                     <figure>
-                                                        <a href="#"><img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo-partner2.png" alt="">
+                                                        <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner2.png" alt="">
                                                         </a>
                                                     </figure>
                                                 </div>
@@ -193,7 +193,7 @@
                                             <article class="entry-item">
                                                 <div class="entry-content">
                                                     <figure>
-                                                        <a href="#"><img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo-partner3.png" alt="">
+                                                        <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner3.png" alt="">
                                                         </a>
                                                     </figure>
                                                 </div>
@@ -204,7 +204,7 @@
                                             <article class="entry-item">
                                                 <div class="entry-content">
                                                     <figure>
-                                                        <a href="#"><img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo-partner4.png" alt="">
+                                                        <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner4.png" alt="">
                                                         </a>
                                                     </figure>
                                                 </div>
@@ -215,7 +215,7 @@
                                             <article class="entry-item">
                                                 <div class="entry-content">
                                                     <figure>
-                                                        <a href="#"><img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo-partner5.png" alt="">
+                                                        <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner5.png" alt="">
                                                         </a>
                                                     </figure>
                                                 </div>
@@ -226,7 +226,7 @@
                                             <article class="entry-item">
                                                 <div class="entry-content">
                                                     <figure>
-                                                        <a href="#"><img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo-partner1.png" alt="">
+                                                        <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner1.png" alt="">
                                                         </a>
                                                     </figure>
                                                 </div>
@@ -237,7 +237,7 @@
                                             <article class="entry-item">
                                                 <div class="entry-content">
                                                     <figure>
-                                                        <a href="#"><img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo-partner2.png" alt="">
+                                                        <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner2.png" alt="">
                                                         </a>
                                                     </figure>
                                                 </div>
@@ -248,7 +248,7 @@
                                             <article class="entry-item">
                                                 <div class="entry-content">
                                                     <figure>
-                                                        <a href="#"><img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo-partner3.png" alt="">
+                                                        <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner3.png" alt="">
                                                         </a>
                                                     </figure>
                                                 </div>
@@ -259,7 +259,7 @@
                                             <article class="entry-item">
                                                 <div class="entry-content">
                                                     <figure>
-                                                        <a href="#"><img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo-partner4.png" alt="">
+                                                        <a href="#"><img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-partner4.png" alt="">
                                                         </a>
                                                     </figure>
                                                 </div>

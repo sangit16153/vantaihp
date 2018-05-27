@@ -13,7 +13,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-12 col-md-3">
                                     <div class="widget-content">
-                                        <a href="https://www.tyquay.com/contact/" class="kopa-btn btn-02">Liên hệ</a>
+                                        <a href="https://www.vantaihoangphi.com/contact/" class="kopa-btn btn-02">Liên hệ</a>
                                     </div>
                                 </div>
                             </div>
@@ -105,7 +105,7 @@
                                 <article class="entry-item">
                                     <figure class="entry-thumb">
                                         <a href="#">
-                                            <img src="https://www.tyquay.com/wp-content/uploads/2018/05/logo-footer.png" alt="logo-footer">
+                                            <img src="https://www.vantaihoangphi.com/wp-content/uploads/2018/05/logo-footer.png" alt="logo-footer">
                                         </a>
                                     </figure>
                                     <div class="entry-content">
